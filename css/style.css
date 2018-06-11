@@ -1,0 +1,42 @@
+
+/*********** TELA DE LOGIN **********/
+
+body {
+    margin: 0px;
+}
+
+.home .container {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center
+}
+
+.acesso {
+    width: 300px;
+    height: 300px;
+}
+
+.acesso .row{
+    margin: 0.5em 0;
+}
+
+.acesso .row h1{
+   margin-bottom: 0.5em;
+}
+
+.acesso .row input{}
+
+.acesso .row input[type="text"]{}
+
+.acesso .row input[type="password"]{}
+
+.acesso .row input[type="submit"]{}
+
+/*********** TABELA DE DADOS **********/
+
+.dataTables_wrapper{
+   width: 100%;
+}

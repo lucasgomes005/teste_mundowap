@@ -1,0 +1,18 @@
+{
+    "name" : "lucas/composer-php",
+    "description" : "Teste - Mundo WAP",
+    "authors": [
+        {
+            "name": "Lucas Gomes",
+            "email" : "lucasgomes005@gmail.com"
+        }
+    ],
+    "require-dev": {
+        "php" : ">=7"
+    },
+    "require": {
+        "box/spout": "^2.7",
+        "joshcam/mysqli-database-class": "^2.9",
+        "dmitrymomot/php-session": "^1.0"
+    }
+}

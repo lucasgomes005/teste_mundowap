@@ -1,0 +1,25 @@
+{
+    "name": "dmitrymomot/php-session",
+    "description": "Simple package for work with sessions",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Dmitry Momot",
+            "email": "mail@dmomot.com"
+        }
+    ],
+    "require": {
+        "php":">=5.3.0",
+		"dmitrymomot/cookie-helper": "1.*"
+    },
+    "autoload": {
+        "psr-4": {
+			"Session\\": "src/"
+		}
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "v1.0.x-dev"
+        }
+    }
+}

@@ -1,0 +1,15 @@
+{
+  "name": "lucasgomes",
+  "version": "1.0.0",
+  "description": "Teste MundoWAP",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "lucasgomes",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^4.1.1",
+    "jquery": "^3.3.1"
+  }
+}
